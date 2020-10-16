@@ -28,7 +28,9 @@ Use our influence and support to help raise funds for various initiatives seekin
 
 ## Our organising team
 
-Our organising committee came together in August 2020 to uplift and amplify the voices of Black people in data sciences. We are a global team and have worked through the COVID-19 pandemic and heightened discussion around racial injustice to create something positive (for ourselves and our community). We introduce ourselves in the bios below, but acknowledge the contributions of numerous people who got us on our feet in our infancy, including: [Jenea Adams](https://twitter.com/JeneaIA) (founder of the [Black Women in Computational Biology Network](https://twitter.com/blkwomencompbio)), [Asia Mitchell](https://twitter.com/Asia_Mitch) and [Emmanuel Garcia](https://twitter.com/manithegarcia). 
+Our organising committee came together in August 2020 to uplift and amplify the voices of Black people in data sciences. We are a global team and have worked through the COVID-19 pandemic and heightened discussion around racial injustice to create something positive (for ourselves and our community). 
+
+We introduce ourselves in the bios below, but acknowledge the contributions of numerous people who got us on our feet in our infancy, including: [Jenea Adams](https://twitter.com/JeneaIA) (founder of the [Black Women in Computational Biology Network](https://twitter.com/blkwomencompbio)), [Asia Mitchell](https://twitter.com/Asia_Mitch) and [Emmanuel Garcia](https://twitter.com/manithegarcia). 
 
 #### [Name 1](https://twitter.com/) - do we link to bio markdown, Markia?
 #### [Name 2](https://twitter.com/) 

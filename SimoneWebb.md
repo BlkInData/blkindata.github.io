@@ -13,4 +13,4 @@ I enjoy coding within the broad field of Biology, and have a personal interest i
 
 I care deeply about equity in access to higher education, and as such, have been involved in community building and voluntary scientific outreach work since the beginning of my academic journey. I have almost 10 years experience in the charity sector and am an acting trustee for the [National Rheumatoid Arthritis Society](https://www.nras.org.uk/trustees). 
 
-I have roots in London, come from a Jamaican family, and am grateful for the places my journey in academia has taken me so far. I am excited for the future of the BlackInData organisation, and for the amazing things I know we will achieve as a community. 
+I have roots in London, come from a Jamaican family, and am grateful for the places my journey in academia has taken me so far. I am excited for the future of the BlackInData organisation, and for the amazing things I know we will achieve as a community. I am Black in data because: coding provides me with both a science and an art.

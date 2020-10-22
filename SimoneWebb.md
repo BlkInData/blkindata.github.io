@@ -7,7 +7,7 @@
 
 <img src="https://static1.squarespace.com/static/5f3c2f4d6d15ec5d441defb1/t/5f3ecc313afea73d80d91b30/1597951036456/053bigTimages_%25252BMedSciLife_Muzlifah2020.jpg" width="300" height="300">
 
-Image credit: BigT images, Academy Medical Sciences
+*Image credit: BigT images, Academy Medical Sciences*
 
 I specialise in the fields of single-cell RNA sequencing, immunology and haematopoiesis. I work in the lab of [Muzlifah Haniffa](https://www.ncl.ac.uk/medical-sciences/people/profile/mahaniffa.html) at Newcastle University and am fully-funded by the [Barbour Foundation](https://www.barbour.com/uk/the-barbour-foundation). My research contributes to the [Human Cell Atlas](https://www.humancellatlas.org/) Development initiative where I investigate haematopoiesis in the human fetal bone marrow.
 

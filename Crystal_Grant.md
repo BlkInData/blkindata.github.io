@@ -6,7 +6,7 @@
 
 &nbsp;
 
-![](headshot.jpg)
+![](headshot.JPG)
 
 I am passionate about better understanding the effects of technology on society and I'm especially interested in ensuring the benefits of tech are applied equitably, that the tech workforce reflects the diversity of the population, and that the data used to develop tech tools is free of harmful biases. In May 2020, I graduated from Emory University with my Ph.D. in Genetics and Molecular Biology. In my research, I used bioinformatics tools to characterize the molecular changes in humans with age to better understand the relationship between aging and human health.
 

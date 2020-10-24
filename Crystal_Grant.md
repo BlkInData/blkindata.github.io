@@ -2,7 +2,7 @@
 ## Tech Policy Fellow at New America
 ## Recent Ph.D. grad in Genetics from
 ## Emory University, Atlanta, GA
-### Follow me on [Twitter](http://twitter.com/itscrystalgrant)
+### Follow me on [Twitter](http://twitter.com/itscrystalgrant) and/or connect with me on [LinkedIn] (https://www.linkedin.com/in/itscrystalgrant/)
 
 &nbsp;
 

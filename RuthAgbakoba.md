@@ -13,3 +13,4 @@ Findings from her research have helped to inform UK Government policy, healthcar
 Ruth is currently based as an Honorary Research Fellow at University College London, Institute of Health Informatics and serves as a STEM Ambassador and mentor for young underrepresented girls across the United Kingdom. Ruth’s current interests are in promoting equity and diversity in academia, translational research (translating research findings into practice) and Global eHealth policy to foster person-centered care. 
 
 Feel free to connect with me on [Twitter](https://twitter.com/ruthagbakoba) and [Linkedin](https://www.linkedin.com/in/ruthagbakoba/) 
+

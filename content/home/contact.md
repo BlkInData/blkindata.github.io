@@ -1,0 +1,20 @@
++++
+# Contact widget.
+widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Contact"
+subtitle = "Connect with us"
+
+autolink = true
+
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form = 2
++++
+
+<a class="twitter-timeline" data-height="1000" data-theme="dark" href="https://twitter.com/BlkInData?ref_src=twsrc%5Etfw">Tweets by BlkInData</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

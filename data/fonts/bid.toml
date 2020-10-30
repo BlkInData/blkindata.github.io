@@ -1,0 +1,15 @@
+# Font style metadata
+name = "bid"
+
+# Optional Google font URL
+google_fonts = "family=Major+Mono+Display&family=B612+Mono&family=Share+Tech+Mono"
+
+# Font families
+heading_font = "Major Mono Display"
+body_font = "Share Tech Mono"
+nav_font = "Share Tech Mono"
+mono_font = "B612 Mono"
+
+# Font size
+font_size = "16"
+font_size_small = "14"

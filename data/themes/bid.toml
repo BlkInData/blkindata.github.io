@@ -1,0 +1,30 @@
+# Theme metadata
+
+#“Primary” section changes the color of links and icons depending on whether you want a dark or light-colored theme. 
+#The “Menu” section changes the colors in the top menu bar. 
+#The “Backgrounds” section changes the color of the section panels on the first page.
+
+name = "BID"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary ="#000000"
+primary_light = "#000000"
+primary_dark = "#000000"
+
+# Links
+link = "#009900"
+link_hover = "#CC0000"
+
+# Menu
+menu_primary = "#000000"
+menu_text = "#FFFFFF"
+menu_text_active = "#009900"
+menu_title = "#FFFFFF"
+
+# Backgrounds
+background = "#000000"
+home_section_odd = "#000000"
+home_section_even = "#000000"

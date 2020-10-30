@@ -71,7 +71,9 @@ She is a poet, bibliophile, and loves delving into Africana Studies texts with c
 You can find her poetry published in A Gathering Together Literary Journal, Sikk Magazine, and on her blog AfroetryWorks.com.
 
 A Few Favorites! 
+
 Musicians: Hugh Masekela, Fatoumata Diawara, Lizz Wright, Boubacar Traore, Dorothy Ashby, Kamasi Washington, Christian Scott Atunde Adjuah
+
 Poets & Writers: Sonia Sanchez, Dionne Brand, Amiri Baraka, Toni Morrison, Keorapetse Kgositsile, Gayl Jones, Toni Cade Bambara
 
 

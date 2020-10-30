@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mentorship | BlackInData</title>
+    <link>https://blkindata.github.io/tag/mentorship/</link>
+      <atom:link href="https://blkindata.github.io/tag/mentorship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mentorship</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blkindata.github.io/media/icon.png</url>
+      <title>Mentorship</title>
+      <link>https://blkindata.github.io/tag/mentorship/</link>
+    </image>
+    
+    <item>
+      <title>Getting the job and growing in the job</title>
+      <link>https://blkindata.github.io/talk/mentorship2020/</link>
+      <pubDate>Sat, 21 Nov 2020 12:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/mentorship2020/</guid>
+      <description>&lt;p&gt;Panel on Getting the Job / Growing in the Job, with a focus on the role of professional mentorship&lt;/p&gt;
+&lt;p&gt;Drop in Mentorship Hours with volunteer mentors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#HireBlackInData #BlackinDataMentorship</title>
+      <link>https://blkindata.github.io/project/blackindatacommunity/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindatacommunity/</guid>
+      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

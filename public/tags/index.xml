@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | BlackInData</title>
+    <link>https://blkindata.github.io/tags/</link>
+      <atom:link href="https://blkindata.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blkindata.github.io/media/icon.png</url>
+      <title>Tags</title>
+      <link>https://blkindata.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

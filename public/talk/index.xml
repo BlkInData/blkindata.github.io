@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Events | BlackInData</title>
+    <link>https://blkindata.github.io/talk/</link>
+      <atom:link href="https://blkindata.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blkindata.github.io/media/icon.png</url>
+      <title>Recent &amp; Upcoming Events</title>
+      <link>https://blkindata.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Getting the job and growing in the job</title>
+      <link>https://blkindata.github.io/talk/mentorship2020/</link>
+      <pubDate>Sat, 21 Nov 2020 12:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/mentorship2020/</guid>
+      <description>&lt;p&gt;Panel on Getting the Job / Growing in the Job, with a focus on the role of professional mentorship&lt;/p&gt;
+&lt;p&gt;Drop in Mentorship Hours with volunteer mentors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bias in AI Algorithms</title>
+      <link>https://blkindata.github.io/talk/data-justice2020/</link>
+      <pubDate>Fri, 20 Nov 2020 18:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/data-justice2020/</guid>
+      <description>&lt;p&gt;Dr. Marshall will discuss bias is AI algorithms and Alise will discuss her article in the &lt;a href=&#34;https://medium.com/swlh/death-by-bias-how-algorithms-systemize-discriminatory-practices-752c60d378f1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; discussing how Algorithms Systemize Discriminatory Practices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Tableau and R with Jarrett Hurms</title>
+      <link>https://blkindata.github.io/talk/tableau-r-integration2020/</link>
+      <pubDate>Thu, 19 Nov 2020 19:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/tableau-r-integration2020/</guid>
+      <description>&lt;p&gt;Join us for this seminar how on to effectively integrate Tableau and R for easer, more efficient data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Viz in a Day</title>
+      <link>https://blkindata.github.io/talk/datavizinaday2020/</link>
+      <pubDate>Thu, 19 Nov 2020 18:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/datavizinaday2020/</guid>
+      <description>&lt;p&gt;Workshop with Teneika and Amanda&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avoid the Blank Stare: How to Tell a Great Story with Data</title>
+      <link>https://blkindata.github.io/talk/storytelling2020/</link>
+      <pubDate>Thu, 19 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/storytelling2020/</guid>
+      <description>&lt;p&gt;Workshop with Candra M. to learn how to tell a story with your data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID19 Health Disparities with Andrea Hobby</title>
+      <link>https://blkindata.github.io/talk/coviddisparities2020/</link>
+      <pubDate>Thu, 19 Nov 2020 12:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/coviddisparities2020/</guid>
+      <description>&lt;p&gt;Andrea Hobby gives a summary of the current health disparities seen in COVID19 patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scrapping for a Data Job with Sia</title>
+      <link>https://blkindata.github.io/talk/nlp-python2020/</link>
+      <pubDate>Wed, 18 Nov 2020 18:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/nlp-python2020/</guid>
+      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R with Dr. Nayena Blankson</title>
+      <link>https://blkindata.github.io/talk/intro2r2020/</link>
+      <pubDate>Wed, 18 Nov 2020 14:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/intro2r2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ayodele</title>
+      <link>https://blkindata.github.io/talk/ayodele2020/</link>
+      <pubDate>Wed, 18 Nov 2020 12:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/ayodele2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Journeys Panel</title>
+      <link>https://blkindata.github.io/talk/firesidechat2020/</link>
+      <pubDate>Tue, 17 Nov 2020 18:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/firesidechat2020/</guid>
+      <description>&lt;p&gt;Data Journeys: Health information, technology, informatics, data science, epidemiology, social science, and self-teaching. Fireside chat with TIDES, Kimberly, Odane, Teneika, Amber, Ruth, and Blossom.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survival strategies in Data careers with Jakyll</title>
+      <link>https://blkindata.github.io/talk/survival-strategies2020/</link>
+      <pubDate>Tue, 17 Nov 2020 17:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/survival-strategies2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analytics careers after 40</title>
+      <link>https://blkindata.github.io/talk/lunchseminar2020/</link>
+      <pubDate>Tue, 17 Nov 2020 13:30:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/lunchseminar2020/</guid>
+      <description>&lt;p&gt;Lunchtime webinar on how to enter the data analytics careers after age 40.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BlackInDataRollCall</title>
+      <link>https://blkindata.github.io/talk/rollcall2020/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/rollcall2020/</guid>
+      <description>&lt;p&gt;Introduce yourself and tell us what you do in data and include the hashtag #BlackInDataRollCall and tag &lt;a href=&#34;https://twitter.com/BlkInData&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@BlkInData&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sign up to be a mentor or mentee for Drop-In Mentorship Hours throughout the week!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

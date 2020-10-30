@@ -9291,7 +9291,7 @@ a {
 /* nav */
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus {
-  color: #CC0000; }
+  color: #CC0000 !important; }
 
 .navbar {
   box-shadow: none;
@@ -9325,7 +9325,7 @@ a.nav-link:after {
   content: '.';
   /* make invisible, dot beneath links */
   color: transparent;
-  background: #367588;
+  background: #000000;
   height: 2px; }
 
 a.nav-link:hover:after {
@@ -9417,12 +9417,12 @@ div.alert.alert-warning {
 
 /* buttons */
 .btn-primary {
-  border-color: #45a140;
-  background: #45a140; }
+  border-color: #a61205;
+  background: #a61205; }
 
 .btn-outline-primary {
-  border-color: #45a140;
-  color: #45a140; }
+  border-color: #a61205;
+  color: #a61205; }
 
 .btn-primary:hover,
 .btn-primary:active,
@@ -9440,12 +9440,12 @@ div.alert.alert-warning {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #a61205;
-  border-color: #a61205; }
+  background-color: #45a140;
+  border-color: #45a140; }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #a61205;
+  background-color: #45a140;
   border-color: #45a140; }
 
 /*************************************************
@@ -9453,7 +9453,7 @@ div.alert.alert-warning {
  **************************************************/
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #757de8 !important; }
+  background-color: #45a140 !important; }
 
 .btn-primary.active:not(:disabled):not(.disabled):focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
@@ -9499,16 +9499,16 @@ iframe {
 
 /* pagination buttons */
 .page-link {
-  color: #CC0000;
+  color: #45a140;
   background-color: #F0F7FA;
-  border: 1px solid #CC0000;
+  border: 1px solid #45a140;
   border-radius: 0px;
   /*undo rounded corners*/ }
 
 .page-link:hover {
   color: #FFFFFF;
-  background-color: #CC0000;
-  border-color: #CC0000; }
+  background-color: #45a140;
+  border-color: #45a140; }
 
 .page-item:first-child .page-link {
   border-top-left-radius: 0rem;

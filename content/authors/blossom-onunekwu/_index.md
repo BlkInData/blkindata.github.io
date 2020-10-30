@@ -1,15 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Blossom Onunekwu
-avatar_image: "blossom-onunekwu.jpg"
+title: Blossom Onunekwu
+avatar_image: "avatar.jpg"
 
-# Username (this should match the folder name)
 authors:
-- markia-smith
+- blossom-onunekwu
 
 # resume download button
 #btn:

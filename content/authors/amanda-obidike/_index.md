@@ -1,15 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
-# Display name
-name: Amanda Obidike 
+title: Amanda Obidike 
 avatar_image: "avatar.jpg"
 
 # Username (this should match the folder name)
 authors:
-- markia-smith
+- amanda-obidike
 
 # resume download button
 #btn:

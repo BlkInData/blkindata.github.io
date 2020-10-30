@@ -17,4 +17,3 @@ autolink = true
 email_form = 2
 +++
 
-<a class="twitter-timeline" data-height="1000" data-theme="dark" href="https://twitter.com/BlkInData?ref_src=twsrc%5Etfw">Tweets by BlkInData</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

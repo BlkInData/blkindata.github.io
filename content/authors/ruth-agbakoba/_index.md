@@ -1,30 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Dr. Ruth Agbakoba
+title: Ruth Agbakoba
 avatar_image: "avatar.jpg"
 
-# Featured image
-# To use, place an image named `featured.jpg/png` in your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
-
-image:
-  placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-
-# Username (this should match the folder name)
 authors:
-- markia-smith
-
-
+- ruth-agbakoba
 # Is this the primary user of the site?
 superuser: false
 
@@ -101,5 +81,5 @@ Dr. Ruth Agbakoba has a rich background working at the forefront of innovation l
 
 Findings from her research have helped to inform UK Government policy, healthcare leaders and change agents. For her research she was awarded the first prize at the 15th World Congress on Digital Health and Biomedical Informatics in Sao Paulo, Brazil. Furthermore, she is a recipient of Canada’s prestigious McGill University Visiting Scholar Fellowship in the Chronic Disease and Health Informatics Research Laboratory. Ruth’s notable works have been presented at the Kings Fund Digital Health and Care Congress in London, UK, the British Computer Society Scotland National Conference in Edinburgh, the North American Primary Care Research Group in New York and the IEEE International Conference on Health Informatics in Verona, Italy.
 
-Ruth is currently based as an Honorary Research Fellow at University College London, Institute of Health Informatics and serves as a STEM Ambassador and mentor for young underrepresented girls across the United Kingdom. Ruth’s current interests are in promoting equity and diversity in academia, translational research (translating research findings into practice) and Global eHealth policy to foster person-centered care. Feel free to connect on [Twitter](https://twitter.com/ruthagbakoba) and [Linkedin](https://www.linkedin.com/in/ruthagbakoba/) 
+Ruth is currently based as an Honorary Research Fellow at University College London, Institute of Health Informatics and serves as a STEM Ambassador and mentor for young underrepresented girls across the United Kingdom. Ruth’s current interests are in promoting equity and diversity in academia, translational research (translating research findings into practice) and Global eHealth policy to foster person-centered care. Feel free to connect on [Twitter](https://twitter.com/ruthagbakoba) and [Linkedin](https://www.linkedin.com/in/ruthagbakoba/).
 

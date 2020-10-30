@@ -16,7 +16,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 200;
   letter-spacing: 0.04em;
-  color: #FFFFFF;
+  color: #000000;
+  overflow-wrap: break-word;
 }
 
 /* links */
@@ -69,7 +70,7 @@ a.nav-link:after {
   width: 0%;
   content: '.'; /* make invisible, dot beneath links */
   color: transparent;
-  background: #000000;
+  background: #367588;
   height: 2px;
 }
 
@@ -80,7 +81,7 @@ a.nav-link:hover:after {
 /* home page */
 
 .portrait-title h2 {
-  color: #FFFFFF;
+  color: #000000;
 }
 
 #about .col-12.col-lg-8 {
@@ -181,32 +182,59 @@ div.alert.alert-warning {
 }
 
 /* buttons */
-
-.btn.btn-sm, .btn-group-sm > .btn {
-  border-radius: 0rem; /*undo rounded corners*/
-  font-size: 0.8rem;
+.btn-primary {
+  border-color: #45a140;
+  background: #45a140;
 }
 
-.btn.btn-outline-primary.my-1.mr-1 {
-  border-radius: 0px; /*undo rounded corners*/
-  font-size: 0.8rem;
+.btn-outline-primary {
+  border-color: #45a140;
+  color: #45a140;
 }
 
-.btn {
-  font-family: Lora;
-  text-transform: lowercase;
-  font-style: italic;
-  border-radius: 0px;
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary:visited,
+.open > .dropdown-toggle.btn-primary {
+  background: #a61205;
 }
 
-.btn-toolbar .btn:first-child {
-  border-radius: 0px;
+
+.btn-outline-light:hover,
+.btn-outline-light:active,
+.btn-outline-light.active {
+  background: rgba(0,0,0,0.4);
 }
 
-.btn-toolbar .btn:last-child {
-  border-radius: 0px;
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show > .btn-outline-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #a61205;
+  border-color: #a61205;
 }
 
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #a61205;
+  border-color: #45a140;
+}
+
+/*************************************************
+ *  Toolbar Buttons
+ **************************************************/
+ .btn-toolbar .btn.btn-primary:active,
+ .btn-toolbar .btn.btn-primary.active {
+   background-color: #757de8 !important;
+ }
+ 
+ .btn-primary:not(:disabled):not(.disabled).active:focus,
+ .btn-primary:not(:disabled):not(.disabled):active:focus,
+ .show > .btn-primary.dropdown-toggle:focus {
+   box-shadow: 0 0 0 .2rem #002984;
+ }
+ 
 .btn-toolbar {
   justify-content: center;
 }
@@ -287,7 +315,7 @@ iframe {
 }
 
 .carousel-indicators li {
-	background-color: #E0FFFF;
+	background-color: #ffffff;
 }
 
 .section-heading p {

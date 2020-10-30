@@ -16,4 +16,7 @@ image:
   caption: Photo by Chloe Hoeber
   focal_point: Smart
 ---
-dvgavavsvs
+ 
+ Introduce yourself and tell us what you do in data and include the hashtag #BlackInDataRollCall and tag [@BlkInData](https://twitter.com/BlkInData)
+
+ Sign up to be a mentor or mentee for Drop-In Mentorship Hours throughout the week!

@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "#BlackInDataWeek"
 subtitle = "A week-long celebration #BlackInDataWeek to (1) highlight the valuable work and experiences of Black people in the field of Data, (2) provide community, and (3) educational and professional resources."
@@ -83,3 +83,6 @@ subtitle = "A week-long celebration #BlackInDataWeek to (1) highlight the valuab
  css_class = ""
 +++
 
+
+ 
+ <img src="banner-schedule.png" class="center-block" alt="Poster presentation with Markia smiling next to poster" style="width:100%;">

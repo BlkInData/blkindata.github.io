@@ -1,23 +1,16 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Chloe Hoeber
+title: Chloe Hoeber
 avatar_image: "avatar.jpg"
 
-# Username (this should match the folder name)
 authors:
-- markia-smith
-
+- chloe-hoeber
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: Data Scientist
-
 
 # Organizations/Affiliations
 organizations:
@@ -73,6 +66,4 @@ From there I developed my broad career goals: (1) acquire the quantitative skill
 Throughout college I planned to apply to neuroscience PhD programs but after graduation I began considering non-traditional routes toward mind/brain research. I am now exploring data science as a path toward making an impact in neuropsychiatric research and social justice.
 
 My interests include computational psychiatry, precision medicine, mental healthcare, advocacy for marginalized groups in mental healthcare, neurodiversity, health tech, using data science for social good, and the social implications of big data and AI.
-
-I am currently looking for volunteer and paid positions where I can contribute to research and improve my computational and data science skills!
 

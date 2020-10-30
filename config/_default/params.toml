@@ -24,7 +24,7 @@ day_night = false
 #   Choose from `default`, `classic`, or `playfair`.
 font = "bid"
 
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info

@@ -1,21 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
-
 # Display name
-name: Victor Ekuta
-avatar_image: "victor-ekuta.jpg"
+title: Victor Ekuta
+avatar_image: "avatar.jpg"
 
-# Username (this should match the folder name)
 authors:
-- markia-smith
-
-# resume download button
-btn:
-- url : ""
-  label : ""
+- victor-ekuta
 
 # Is this the primary user of the site?
 superuser: false

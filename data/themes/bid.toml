@@ -4,15 +4,15 @@
 #The “Menu” section changes the colors in the top menu bar. 
 #The “Backgrounds” section changes the color of the section panels on the first page.
 
-name = "BID"
+name = "bid"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary ="#000000"
-primary_light = "#000000"
-primary_dark = "#000000"
+primary ="#FFFFFF"
+primary_light = "#009900"
+primary_dark = "#009900"
 
 # Links
 link = "#009900"
@@ -20,11 +20,11 @@ link_hover = "#CC0000"
 
 # Menu
 menu_primary = "#000000"
-menu_text = "#FFFFFF"
+menu_text = "black"
 menu_text_active = "#009900"
-menu_title = "#FFFFFF"
+menu_title = "#009900"
 
 # Backgrounds
-background = "#000000"
-home_section_odd = "#000000"
-home_section_even = "#000000"
+background = "#FFFFFF"
+home_section_odd = "#FFFFFF"
+home_section_even = "#FFFFFF"

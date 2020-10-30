@@ -1,10 +1,11 @@
 ---
 # Display name
-name: Markia Smith
+title: Markia Smith
 avatar_image: "avatar.png"
-# Username (this should match the folder name)
+
 authors:
 - markia-smith
+
 # resume download button
 #btn:
 #- url : ""
@@ -22,7 +23,7 @@ organizations:
   url: "https://unclineberger.org/hoadleylab/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Black In Data because I stand as a testament that people from disadvantaged backgrounds can be in the programming field and attain their goals.
+bio: I'm Black In Data because I stand as a testament that people from disadvantaged backgrounds can be in the programming field and attain their goals.
 
 # Should the user's education and interests be displayed?
 display_education: false

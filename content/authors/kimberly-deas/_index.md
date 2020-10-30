@@ -1,16 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Kimberly  Deas
+title: Kimberly  Deas
 avatar_image: "kimberly-deas.jpg"
 
-# Username (this should match the folder name)
 authors:
-- markia-smith
-
+- kimberly-deas
 
 # Is this the primary user of the site?
 superuser: false

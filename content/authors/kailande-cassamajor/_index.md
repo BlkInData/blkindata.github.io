@@ -1,16 +1,11 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Kailande Cassamajor
+title: Kailande Cassamajor
 avatar_image: "kailandecassamajor.jpg"
 
-# Username (this should match the folder name)
-authors:
-- markia-smith
 
+authors:
+- kailande-cassamajor
 
 # Is this the primary user of the site?
 superuser: false

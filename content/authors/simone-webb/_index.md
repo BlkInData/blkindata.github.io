@@ -1,16 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Simone Webb
+title: Simone Webb
 avatar_image: "https://static1.squarespace.com/static/5f3c2f4d6d15ec5d441defb1/t/5f3ecc313afea73d80d91b30/1597951036456/053bigTimages_%25252BMedSciLife_Muzlifah2020.jpg"
 
-# Username (this should match the folder name)
 authors:
-- markia-smith
-
+- simone-webb
 
 # Is this the primary user of the site?
 superuser: false

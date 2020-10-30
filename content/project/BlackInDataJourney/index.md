@@ -17,6 +17,4 @@ image:
   focal_point: Smart
 ---
 
-
-fajananf
-
+Tell us how you got in data and include the hashtag #BlackInDataJourney! 

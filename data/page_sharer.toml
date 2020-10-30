@@ -33,21 +33,6 @@
   icon = "linkedin-in"
   enable = true
 
-[[buttons]]
-  id = "whatsapp"
-  url = "whatsapp://send?text={title}%20{url}"
-  title = "WhatsApp"
-  icon_pack = "fab"
-  icon = "whatsapp"
-  enable = true
-
-[[buttons]]
-  id = "weibo"
-  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
-  title = "Weibo"
-  icon_pack = "fab"
-  icon = "weibo"
-  enable = true
 
 [[buttons]]
   id = "reddit"
@@ -65,13 +50,6 @@
   icon = "pinterest"
   enable = false
 
-[[buttons]]
-  id = "xing"
-  url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
-  title = "Xing"
-  icon_pack = "fab"
-  icon = "xing"
-  enable = false
 
 [[buttons]]
   id = "tumblr"

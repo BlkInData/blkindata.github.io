@@ -22,15 +22,23 @@
   name = "BlackInDataWeek2020"
   url = "bidweek2020"
   weight = 40
-[[main]]
-  name = "Get Involved"
-  url = "get-involved"
-  weight = 50
 
 [[main]]
   name = "Events"
   url = "events"
+  weight = 50
+
+[[main]]
+  name = "Get Involved"
+  identifier = "get-involved"
+  url = "get-involved"
   weight = 60
+
+#[[main]]
+    #name = "Volunteer"
+    #parent = "get-involved"
+    #url = "/get-involved/volunteer"
+    #weight = 1.0
 
 [[main]]
   name = "Contact"

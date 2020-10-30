@@ -1,17 +1,10 @@
 ---
-menu:
-  docs:
-    parent: 'about'
-    weight: 20
 # Display name
-name: Crystal Grant
-pronouns: she/her 
+title: Crystal Grant
 avatar_image: "avatar.jpg"
 
-# Username (this should match the folder name)
 authors:
-- markia-smith
-
+- crystal-grant
 # Is this the primary user of the site?
 superuser: false
 

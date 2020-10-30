@@ -57,7 +57,8 @@ email: ""
 user_groups:
 - Organizers
 ---
-> I'm Black in Data because 
+> I'm Black in Data because I am interested in using data science to assist in the effort to create real-time, measurable impact that benefits marginalized communities.  
+
 
 Pronouns: she/her
 

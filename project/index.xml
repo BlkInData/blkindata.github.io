@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | BlackInData</title>
+    <link>https://blkindata.github.io/project/</link>
+      <atom:link href="https://blkindata.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blkindata.github.io/media/icon.png</url>
+      <title>Projects</title>
+      <link>https://blkindata.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>#HireBlackInData #BlackinDataMentorship</title>
+      <link>https://blkindata.github.io/project/blackindatacommunity/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindatacommunity/</guid>
+      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BlackinDataJustice</title>
+      <link>https://blkindata.github.io/project/blackindatajustice/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindatajustice/</guid>
+      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BlackInDataViz</title>
+      <link>https://blkindata.github.io/project/blackindataviz/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindataviz/</guid>
+      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BlackInDataSkills</title>
+      <link>https://blkindata.github.io/project/blackindataskills/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindataskills/</guid>
+      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BlackInDataJourney #BlackInDataStory</title>
+      <link>https://blkindata.github.io/project/blackindatajourney/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindatajourney/</guid>
+      <description>&lt;p&gt;Tell us how you got in data and include the hashtag #BlackInDataJourney!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#BlackInDataRollCall</title>
+      <link>https://blkindata.github.io/project/blackindatarollcall/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/project/blackindatarollcall/</guid>
+      <description>&lt;p&gt;Introduce yourself and tell us what you do in data and include the hashtag #BlackInDataRollCall and tag &lt;a href=&#34;https://twitter.com/BlkInData&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@BlkInData&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sign up to be a mentor or mentee for Drop-In Mentorship Hours throughout the week!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crystal Grant | BlackInData</title>
+    <link>https://blkindata.github.io/author/crystal-grant/</link>
+      <atom:link href="https://blkindata.github.io/author/crystal-grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crystal Grant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright>
+    <image>
+      <url>https://blkindata.github.io/media/icon.png</url>
+      <title>Crystal Grant</title>
+      <link>https://blkindata.github.io/author/crystal-grant/</link>
+    </image>
+    
+  </channel>
+</rss>

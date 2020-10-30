@@ -26,6 +26,11 @@ bio: I'm Black in Data because
 display_education: true
 
 interests:
+- Data Science
+- Cognitive Neuro/Science
+- Poetry
+- Jazz
+- Travel 
 
 
 # Social/academia Networking

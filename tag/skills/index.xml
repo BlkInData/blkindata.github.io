@@ -49,11 +49,24 @@
     </item>
     
     <item>
+      <title>Black In Data Visualisation Challenge</title>
+      <link>https://blkindata.github.io/talk/datavizdaycomp2020/</link>
+      <pubDate>Thu, 19 Nov 2020 08:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/datavizdaycomp2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: As creators of Black In Data, we are mindful of the harmful ways Black people have been presented in data historically and to this day. We are interested in unpicking how we relate this this, as Black data professionals, and how we work against this in our day-to-day. We are hosting the “Black In Data Visualisation Challenge” to showcase the data visualisation skills of the many talented Black people in the field of data sciences. We also host this challenge to highlight data that shows Black people in a positive light (we thought long and hard about which dataset to use - we hope you like it), and to highlight the power of collaboration (as seen in ours with the Data Visualization Society).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Submission Information&lt;/strong&gt;: Please submit your data visualisation image as a pdf, with a title/description to complement. Deadlines for submission are January 4th, 2021 at 1200 BST. Submissions will be judged on their message, design, and clarity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eligibility criteria&lt;/strong&gt;: All competition entrants must identify as a person of the Black diaspora. In submitting your image to us, you confirm that you have performed the data analysis to produce the image yourself. You also give permission for us to share the image with our judging panel, host your image on the Data Visualization Society online gallery (with your name accredited), and to share the image on the Black In Data twitter (with your name accredited).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link to data source&lt;/strong&gt;: TBA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link to collecting submissions&lt;/strong&gt;: TBA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>#BlackInDataViz</title>
       <link>https://blkindata.github.io/project/blackindataviz/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/project/blackindataviz/</guid>
-      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
+      <description>&lt;p&gt;Creating space for Black people in data to share their work in the form of favourite data visualisation images. Also hosting a competition for data visualisation using a shared dataset, further reinforcing community. We will also host a ‘Data Viz in a Day’ skills workshop, focusing on instructing beginners on creating data visualizations.&lt;/p&gt;
 </description>
     </item>
     
@@ -79,8 +92,7 @@
       <link>https://blkindata.github.io/project/blackindataskills/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/project/blackindataskills/</guid>
-      <description>&lt;p&gt;dvgavavsvs&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

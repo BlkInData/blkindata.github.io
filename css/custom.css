@@ -7,33 +7,8 @@ footer a#back_to_top i {
 }
 
 /*************************************************
- *  Button Primary: Color Override
+ *  Toolbar Buttons
  **************************************************/
-
- .btn-primary {
-  border-color: {{ .Get "primary" }} !important;
-  background: {{ .Get "primary" }} !important;
-}
-
-.btn-primary:hover,
-.btn-primary:active,
-.btn-primary.active,
-.btn-primary:visited,
-.open > .dropdown-toggle.btn-primary {
-  background: {{ .Get "primary" }} !important;
-}
-
-.btn-light {
-  border-color: #fff !important;
-  background: #fff !important;
-}
-
-.btn-light:hover,
-.btn-light:active,
-.btn-light.active {
-  background: rgba(0,0,0,0.4) !important;
-}
-
 
  /*************************************************
  *  Button Outlines
@@ -98,6 +73,3 @@ footer a#back_to_top i {
     color: #fff !important;  
     background: rgba(0,0,0,0.1) !important; 
   }
-
-  
-  

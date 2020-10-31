@@ -98,8 +98,38 @@
   </url>
   
   <url>
+    <loc>https://blkindata.github.io/category/articles/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/author/blossom-onunekwu/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/categories/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/tag/dei/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/post/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blkindata.github.io/tag/social-justice/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/post/nightgale2020/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -140,6 +170,21 @@
   <url>
     <loc>https://blkindata.github.io/talk/coviddisparities2020/</loc>
     <lastmod>2020-11-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/talk/datavizdaycomp2020/</loc>
+    <lastmod>2020-11-19T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/author/kailande-cassamajor/</loc>
+    <lastmod>2020-11-19T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blkindata.github.io/author/victor-ekuta/</loc>
+    <lastmod>2020-11-19T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -208,6 +253,11 @@
   </url>
   
   <url>
+    <loc>https://blkindata.github.io/profiles/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blkindata.github.io/events/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
@@ -238,14 +288,6 @@
   </url>
   
   <url>
-    <loc>https://blkindata.github.io/author/blossom-onunekwu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blkindata.github.io/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://blkindata.github.io/author/chloe-hoeber/</loc>
   </url>
   
@@ -254,15 +296,7 @@
   </url>
   
   <url>
-    <loc>https://blkindata.github.io/author/kailande-cassamajor/</loc>
-  </url>
-  
-  <url>
     <loc>https://blkindata.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blkindata.github.io/post/</loc>
   </url>
   
   <url>
@@ -279,10 +313,6 @@
   
   <url>
     <loc>https://blkindata.github.io/author/simone-webb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blkindata.github.io/author/victor-ekuta/</loc>
   </url>
   
 </urlset>

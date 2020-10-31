@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>articles | BlackInData</title>
+    <link>https://blkindata.github.io/category/articles/</link>
+      <atom:link href="https://blkindata.github.io/category/articles/index.xml" rel="self" type="application/rss+xml" />
+    <description>articles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://blkindata.github.io/media/icon.png</url>
+      <title>articles</title>
+      <link>https://blkindata.github.io/category/articles/</link>
+    </image>
+    
+    <item>
+      <title>We&#39;re #BlackInData--here&#39;s why you should be too</title>
+      <link>https://blkindata.github.io/post/nightgale2020/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/post/nightgale2020/</guid>
+      <description>&lt;p&gt;Why are we so passionate about #BlackinData? And what advice do we give black data professionals of the future? Our co-organizers share their history and their vision for tomorrow in this article sponsored by The Data Visualization Society.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

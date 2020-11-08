@@ -5,12 +5,20 @@
     <link>https://blkindata.github.io/tag/skills/</link>
       <atom:link href="https://blkindata.github.io/tag/skills/index.xml" rel="self" type="application/rss+xml" />
     <description>Skills</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Thu, 19 Nov 2020 19:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blkindata.github.io/media/icon.png</url>
       <title>Skills</title>
       <link>https://blkindata.github.io/tag/skills/</link>
     </image>
+    
+    <item>
+      <title>Algorithmic FairnessR with Matthew Finney</title>
+      <link>https://blkindata.github.io/talk/algofairness2020/</link>
+      <pubDate>Fri, 20 Nov 2020 12:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/algofairness2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating Tableau and R with Jarrett Hurms</title>
@@ -22,12 +30,19 @@
     </item>
     
     <item>
-      <title>Data Viz in a Day</title>
-      <link>https://blkindata.github.io/talk/datavizinaday2020/</link>
-      <pubDate>Thu, 19 Nov 2020 18:00:00 +0000</pubDate>
-      <guid>https://blkindata.github.io/talk/datavizinaday2020/</guid>
-      <description>&lt;p&gt;Workshop with Teneika and Amanda&lt;/p&gt;
-</description>
+      <title>Visualize Your Data Journey</title>
+      <link>https://blkindata.github.io/talk/vizdatajourney2020/</link>
+      <pubDate>Thu, 19 Nov 2020 17:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/vizdatajourney2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization Tools for Entrepreneurs</title>
+      <link>https://blkindata.github.io/talk/dataviz4business2020/</link>
+      <pubDate>Thu, 19 Nov 2020 16:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/dataviz4business2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -35,7 +50,7 @@
       <link>https://blkindata.github.io/talk/storytelling2020/</link>
       <pubDate>Thu, 19 Nov 2020 13:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/storytelling2020/</guid>
-      <description>&lt;p&gt;Workshop with Candra M. to learn how to tell a story with your data.&lt;/p&gt;
+      <description>&lt;p&gt;Workshop with Candra McRae. to learn how to tell a story with your data.&lt;/p&gt;
 </description>
     </item>
     
@@ -71,16 +86,16 @@
     </item>
     
     <item>
-      <title>Scrapping for a Data Job with Sia</title>
+      <title>Scrapping for a Data Job with Sia Seko</title>
       <link>https://blkindata.github.io/talk/nlp-python2020/</link>
       <pubDate>Wed, 18 Nov 2020 18:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/nlp-python2020/</guid>
-      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient&lt;/p&gt;
+      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient with Sia Seko.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Introduction to R with Dr. Nayena Blankson</title>
+      <title>Introduction to R with Dr. A. Nayena Blankson</title>
       <link>https://blkindata.github.io/talk/intro2r2020/</link>
       <pubDate>Wed, 18 Nov 2020 14:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/intro2r2020/</guid>
@@ -96,7 +111,7 @@
     </item>
     
     <item>
-      <title>Survival strategies in Data careers with Jakyll</title>
+      <title>Survival strategies in Data careers with Jakyll Henry</title>
       <link>https://blkindata.github.io/talk/survival-strategies2020/</link>
       <pubDate>Tue, 17 Nov 2020 17:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/survival-strategies2020/</guid>

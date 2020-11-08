@@ -5,7 +5,7 @@
     <link>https://blkindata.github.io/tag/community/</link>
       <atom:link href="https://blkindata.github.io/tag/community/index.xml" rel="self" type="application/rss+xml" />
     <description>Community</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blkindata.github.io/media/icon.png</url>
       <title>Community</title>
@@ -13,13 +13,21 @@
     </image>
     
     <item>
-      <title>Getting the job and growing in the job</title>
+      <title>Getting the job and growing in the job: Career Development and Mentorship</title>
       <link>https://blkindata.github.io/talk/mentorship2020/</link>
-      <pubDate>Sat, 21 Nov 2020 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 14:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/mentorship2020/</guid>
       <description>&lt;p&gt;Panel on Getting the Job / Growing in the Job, with a focus on the role of professional mentorship&lt;/p&gt;
 &lt;p&gt;Drop in Mentorship Hours with volunteer mentors&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Algorithmic FairnessR with Matthew Finney</title>
+      <link>https://blkindata.github.io/talk/algofairness2020/</link>
+      <pubDate>Fri, 20 Nov 2020 12:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/algofairness2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -32,16 +40,16 @@
     </item>
     
     <item>
-      <title>Scrapping for a Data Job with Sia</title>
+      <title>Scrapping for a Data Job with Sia Seko</title>
       <link>https://blkindata.github.io/talk/nlp-python2020/</link>
       <pubDate>Wed, 18 Nov 2020 18:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/nlp-python2020/</guid>
-      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient&lt;/p&gt;
+      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient with Sia Seko.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Introduction to R with Dr. Nayena Blankson</title>
+      <title>Introduction to R with Dr. A. Nayena Blankson</title>
       <link>https://blkindata.github.io/talk/intro2r2020/</link>
       <pubDate>Wed, 18 Nov 2020 14:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/intro2r2020/</guid>
@@ -49,10 +57,10 @@
     </item>
     
     <item>
-      <title>Ayodele</title>
-      <link>https://blkindata.github.io/talk/ayodele2020/</link>
+      <title>Machine Learning Tutorial with Ayodele Odubela</title>
+      <link>https://blkindata.github.io/talk/machinelearning2020/</link>
       <pubDate>Wed, 18 Nov 2020 12:00:00 +0000</pubDate>
-      <guid>https://blkindata.github.io/talk/ayodele2020/</guid>
+      <guid>https://blkindata.github.io/talk/machinelearning2020/</guid>
       <description></description>
     </item>
     
@@ -66,7 +74,7 @@
     </item>
     
     <item>
-      <title>Data analytics careers after 40</title>
+      <title>Data analytics careers after 40 with Kimberly Deas</title>
       <link>https://blkindata.github.io/talk/lunchseminar2020/</link>
       <pubDate>Tue, 17 Nov 2020 13:30:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/lunchseminar2020/</guid>

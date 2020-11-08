@@ -5,20 +5,12 @@
     <link>https://blkindata.github.io/tag/python/</link>
       <atom:link href="https://blkindata.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Thu, 19 Nov 2020 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blkindata.github.io/media/icon.png</url>
       <title>Python</title>
       <link>https://blkindata.github.io/tag/python/</link>
     </image>
-    
-    <item>
-      <title>Algorithmic FairnessR with Matthew Finney</title>
-      <link>https://blkindata.github.io/talk/algofairness2020/</link>
-      <pubDate>Fri, 20 Nov 2020 12:00:00 +0000</pubDate>
-      <guid>https://blkindata.github.io/talk/algofairness2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Integrating Tableau and R with Jarrett Hurms</title>
@@ -34,7 +26,7 @@
       <link>https://blkindata.github.io/talk/nlp-python2020/</link>
       <pubDate>Wed, 18 Nov 2020 18:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/talk/nlp-python2020/</guid>
-      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient with Sia Seko.&lt;/p&gt;
+      <description>&lt;p&gt;Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient&lt;/p&gt;
 </description>
     </item>
     

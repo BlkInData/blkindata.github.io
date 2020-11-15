@@ -5,12 +5,25 @@
     <link>https://blkindata.github.io/tag/data-bias/</link>
       <atom:link href="https://blkindata.github.io/tag/data-bias/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Bias</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© BlackInData 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blkindata.github.io/media/icon.png</url>
       <title>Data Bias</title>
       <link>https://blkindata.github.io/tag/data-bias/</link>
     </image>
+    
+    <item>
+      <title>Live viewing/tweeting of coded bias with Anna Gifty</title>
+      <link>https://blkindata.github.io/talk/codedbias-2020/</link>
+      <pubDate>Fri, 20 Nov 2020 19:00:00 +0000</pubDate>
+      <guid>https://blkindata.github.io/talk/codedbias-2020/</guid>
+      <description>&lt;p&gt;Join #BlackinData for a live viewing of #CodedBias in honour of #BlackinDataJustice hosted by Anna Gifty, @itsafronomics, an emerging researcher interested in data bias and algorithmic fairness!&lt;/p&gt;
+&lt;p&gt;Anna will be discussing the impact of AI Bias on the future of civil rights and the role Black Folx in Data play in ensuring that we are seen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can access the screening here&lt;/strong&gt;: &lt;a href=&#34;https://www.saltlakefilmsociety.org/comingsoon/coded-bias&#34;&gt;https://www.saltlakefilmsociety.org/comingsoon/coded-bias&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;note: tickets are not free, but you can follow along with the live tweeting without watching&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Please follow the discussion on Twitter at #BlackinDataJustice and #CodedBias 4PM PST / 7PM EST / 12AM GMT&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bias in AI Algorithms</title>
@@ -34,7 +47,8 @@
       <link>https://blkindata.github.io/project/blackindatajustice/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://blkindata.github.io/project/blackindatajustice/</guid>
-      <description></description>
+      <description>&lt;p&gt;Join us for discussion of bias in the data field (and possible paths to address biases in data).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

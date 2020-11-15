@@ -17,4 +17,4 @@ image:
   focal_point: Smart
 ---
 
-dvgavavsvs
+Join us for discussion of bias in the data field (and possible paths to address biases in data).

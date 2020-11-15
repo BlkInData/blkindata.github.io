@@ -1,6 +1,7 @@
 ---
 title: "#HireBlackInData #BlackinDataMentorship"
-summary: Hosting forums for learning and discussion of bias in the data field (and possible paths to address biases in data).
+summary: Join us for career development and mentorship events!
+
 tags:
 - Employment
 - Mentorship
@@ -18,4 +19,6 @@ image:
   focal_point: Smart
 ---
 
-dvgavavsvs
+Panel on Getting the Job / Growing in the Job, with a focus on the role of professional mentorship
+
+Drop in Mentorship Hours with volunteer mentors. Sign up [here](http://blacktides.thechord.io/)

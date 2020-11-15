@@ -41,8 +41,8 @@ title = ""
   url = "/team"
   label = "Know more"
   
-[cta_alt]
-  url = "https://paypal.com"
-  label = "Donate"
+#[cta_alt]
+  #url = "https://paypal.com"
+  #label = "Donate"
 
 +++

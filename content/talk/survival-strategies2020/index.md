@@ -1,17 +1,15 @@
 ---
 title: "Survival strategies in Data careers with Jakyll"
 event: BID Week 2020
-event_url: https://docs.google.com/presentation/d/1j_KFFXdqJjJqeeWDhktQIM-bQ453sSnjYtGylLOz7G8/edit?usp=sharing
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
 summary: "You’ve Got the Job, Now What?"
 abstract: ""
 
-
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-11-17T17:00:00Z"
-date_end: "2020-11-17T17:30:00Z"
+date_end: "2020-11-17T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -25,13 +23,13 @@ tags:
 - Professional development
 - Data science
 - Skills
-- Health disparities
+
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -41,7 +39,7 @@ links:
   url: https://twitter.com/BlkInData 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1j_KFFXdqJjJqeeWDhktQIM-bQ453sSnjYtGylLOz7G8/edit?usp=sharing"
 url_video: ""
 
 # Markdown Slides (optional).

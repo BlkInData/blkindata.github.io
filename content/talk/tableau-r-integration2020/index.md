@@ -1,7 +1,7 @@
 ---
 title: "Integrating Tableau and R with Jarrett Hurms"
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
 summary: "Jarrett Hurms shares methods for integrating Tableau and R."
 abstract: ""
@@ -36,7 +36,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:

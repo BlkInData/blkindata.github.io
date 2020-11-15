@@ -26,7 +26,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: Chloe Hober'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Smart
 
 links:

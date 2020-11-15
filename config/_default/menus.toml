@@ -5,21 +5,35 @@
 
 [[main]]
   name = "Home"
-  url = "#home"
+  identifier = "home"
+  url = "#"
   weight = 10
 
 [[main]]
   name = "About"
+  identifier = "about"
   url = "about"
   weight = 20
 
 [[main]]
-  name = "Team"
-  url = "team"
-  weight = 30
+    name = "Team"
+    identifier = "team"
+    url = "team"
+    weight = 30
 
 [[main]]
-  name = "BlackInDataWeek2020"
+    name = "Profiles"
+    identifier = "profiles"
+    url = "profiles"
+    weight = 35
+  
+#[[main]]
+  #name = "Team"
+  #url = "team"
+  #weight = 30
+
+[[main]]
+  name = "BIDWeek2020"
   url = "bidweek2020"
   weight = 40
 
@@ -29,10 +43,16 @@
   weight = 50
 
 [[main]]
-  name = "Get Involved"
+  name = "News"
+  identifier = "news"
+  url = "post"
+  weight = 60
+
+[[main]]
+  name = "Support"
   identifier = "get-involved"
   url = "get-involved"
-  weight = 60
+  weight = 70
 
 #[[main]]
     #name = "Volunteer"
@@ -43,5 +63,5 @@
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 70
+  weight = 80
 

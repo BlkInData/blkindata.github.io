@@ -14,11 +14,11 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m Black in Data because .
+bio: "I'm Black In Data because I am at heart a problem solver and I believe data science is the most powerful skill set to solve the problems I'm most invested in."
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -34,6 +34,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: mouse-pointer
+  icon_pack: fas
+  link: https://chloehoeber.squarespace.com/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chloeauyun
@@ -53,17 +56,14 @@ email: ""
 user_groups:
 - Organizers
 ---
-> I’m Black in Data because 
+> I am Black In Data because I am at heart a problem solver and I believe data science is the most powerful skill set to solve the problems I'm most invested in. I particularly want to use data science and machine learning to improve our understanding, prevention and treatment of neuropsychiatric disorders. I also want to use my knowledge of data science to advocate for ethical and equitable use of data in and outside my domain.
 
 Pronouns: she/her
 
-Hello! I’m a graduate of Occidental College where I received a BA in Cognitive Science and minored in Neuroscience. My main interest in mind/brain science is improving neuropsychiatric health, especially by getting to the bottom of what neuropsychiatric “disorder” actually is.
+I’m a data scientist at the Laboratory of Organismal Biology at Stanford University, where I use machine learning to analyze neural and behavioral data of amphibians. In undergrad, I studied cognitive science and neuroscience and my main interest was getting to the bottom of what “neuropsychiatric disorder” actually is.
 
-My senior thesis examined executive function deficits in neuropsychiatric disorders and explored classifying psychopathology at the cognitive level to build a bridge between symptom based diagnostic frameworks and the neurobiological research that attempts to explain those symptoms. While writing my senior thesis I realized two things: (1) lots of data and computation beyond my current ability is necessary to understand the complexity of cognition and the nuance of neuropsychiatric disorders, and (2) definitions of psychopathology are inextricable from social context.
+My senior comprehensive project examined executive function deficits in neuropsychiatric disorders and explored classifying psychopathology at the cognitive level to build a bridge between symptom-based diagnostic frameworks and the neurobiological research that attempts to explain those symptoms. While writing my senior thesis I realized two things: (1) lots of data and computation beyond my current ability is necessary to understand the complexity of cognition and the nuance of neuropsychiatric disorders, and (2) definitions of psychopathology are inextricable from social context.
 
 From there I developed my broad career goals: (1) acquire the quantitative skills needed to make sense of this wildly complex organ called the brain and the minds they (allegedly) create, and (2) incorporate social considerations into science and use science to improve society.
 
-Throughout college I planned to apply to neuroscience PhD programs but after graduation I began considering non-traditional routes toward mind/brain research. I am now exploring data science as a path toward making an impact in neuropsychiatric research and social justice.
-
-My interests include computational psychiatry, precision medicine, mental healthcare, advocacy for marginalized groups in mental healthcare, neurodiversity, health tech, using data science for social good, and the social implications of big data and AI.
-
+Because of #BlackInData and other #BlackInX groups like #BlackInNeuro, I now have an incredible opportunity to learn data science and AI techniques applied to neuroscience research, and I have been able to connect with others who are similarly invested in making science equitable so that science can improve society equitably.

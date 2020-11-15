@@ -1,15 +1,16 @@
 ---
-title: Data Viz in a Day
+title: Visualize Your Data Journey
+
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
-summary: "Workshop with Teneika and Amanda"
+summary: "Workshop with Teneika Askew"
 abstract: ""
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-11-19T18:00:00Z"
+date: "2020-11-19T17:00:00Z"
 date_end: "2020-11-19T19:00:00Z"
 all_day: false
 
@@ -30,7 +31,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:
@@ -61,5 +62,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-Workshop with Teneika and Amanda

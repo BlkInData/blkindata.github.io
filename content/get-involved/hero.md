@@ -94,5 +94,5 @@ We are doing twitter take-over of [@realscientists](https://twitter.com/realscie
 
 The R-Ladies RoCur (Rotating Curation) is a twitter handle that will feature an awesome R-Lady each week. This account is run by R-Ladies Global. With the objectives of (1) to encourage and maintain Twitter engagement within the R-Ladies community and (2) to spotlight female and minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) and their great work in R.
 
-[Markia](https://twitter.com/MarkiaASmith) will take over during BID week (Nov 16-20th)  and [Damilola](https://twitter.com/thedamialex) will be taking over the week following BID week (Nov 23-27).
+{{% mention "markia-smith" %}} will take over during BID week (Nov 16-20th)  and [Damilola](https://twitter.com/thedamialex) will be taking over the week following BID week (Nov 23-27).
 

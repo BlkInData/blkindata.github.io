@@ -1,7 +1,7 @@
 ---
 title: Data Journeys Panel
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 location: Worldwide
 summary: "TIDES Fireside Chat with Kimberly (Health Information Technology), Odane (Informatics), Teneika (Data Science), Alise (DA/DE), Amber (Epidemiology), Ruth (Social Science), Blossom (Newbie)"
 abstract: ""
@@ -28,7 +28,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:

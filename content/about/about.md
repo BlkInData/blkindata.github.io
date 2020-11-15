@@ -65,13 +65,13 @@ We value the full range of **ALL** Black people's lived experiences, and also ho
 
 1. To create a week-long celebratory #BlackInDataWeek campaign to 
 
-        (1) highlighting the valuable work and experiences of Black people in the field of Data 
+        (1) highlight the valuable work and experiences of **Black** people in the field of data 
 
-        (2) provide community and 
+        (2) provide community  
 
-        (3) educational and professional resources.
+        (3) educational and professional resources
 
-2. To support an online community of Black people working in different data fields (via our [Twitter page](https://twitter.com/BlkInData))
+2. To support an online community of Black people working in different data fields (via our [Twitter page](https://twitter.com/BlkInData)).
 
 3. To curate a mentorship space for Black students (at all levels) in various areas of data.
 

@@ -46,17 +46,17 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: ''  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+  #icon_pack: fas
+  #link: ''  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/victorekuta
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/victor-ekuta-13151224/
-- icon: academia
-  icon_pack: ai
+- icon: mouse-pointer
+  icon_pack: fas
   link: https://wustl.academia.edu/VictorEkuta
 
 # Link to a PDF of your resume/CV from the About widget.

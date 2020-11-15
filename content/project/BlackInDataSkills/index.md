@@ -16,4 +16,5 @@ image:
   caption: Photo by Chloe Hoeber
   focal_point: Smart
 ---
-dvgavavsvs
+
+Discussing the skills Black people in data have learned, communal sharing of resources and advice for skills development. 

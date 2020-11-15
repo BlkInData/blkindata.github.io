@@ -1,9 +1,9 @@
 ---
 title: "Bias in AI Algorithms"
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
-summary: "Webinar with Dr. Marshall Dataedx on AI algorithms and Alise - discuss recent Medium article"
+summary: "Webinar with Dr. Marshall Dataedx on AI algorithms and Alise Otilia Ramirez"
 abstract: ""
 
 # Talk start and end times.
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:
@@ -62,4 +62,4 @@ math: true
 ---
 
 
-Dr. Marshall will discuss bias is AI algorithms and Alise will discuss her article in the [Medium](https://medium.com/swlh/death-by-bias-how-algorithms-systemize-discriminatory-practices-752c60d378f1) discussing how Algorithms Systemize Discriminatory Practices.
+Dr. Marshall will discuss bias is AI algorithms and Alise Otilia Rameriz will discuss her article in the [Medium](https://medium.com/swlh/death-by-bias-how-algorithms-systemize-discriminatory-practices-752c60d378f1) discussing how Algorithms Systemize Discriminatory Practices.

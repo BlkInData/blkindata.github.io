@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm Black in Data because 
+bio: I'm Black in Data because I am interested in using data science to assist in the effort to create real-time, measurable impact that benefits marginalized communities. 
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -37,13 +37,13 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: twitter
- # icon_pack: fab
-  #link: https://twitter.com/blossombuilds
-#- icon: medium
-  #icon_pack: fab
-  #link: https://medium.com/@blossomandblog
+social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/rootsnpoetry
+- icon: blogger
+  icon_pack: fab
+  link: https://afroetryworks.com/
 #- icon: github
   #icon_pack: fab
   #link: https://github.com/blossomthebuilder
@@ -80,5 +80,4 @@ A Few Favorites!
 Musicians: Hugh Masekela, Fatoumata Diawara, Lizz Wright, Boubacar Traore, Dorothy Ashby, Kamasi Washington, Christian Scott Atunde Adjuah
 
 Poets & Writers: Sonia Sanchez, Dionne Brand, Amiri Baraka, Toni Morrison, Keorapetse Kgositsile, Gayl Jones, Toni Cade Bambara
-
 

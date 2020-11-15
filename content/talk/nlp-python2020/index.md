@@ -1,7 +1,7 @@
 ---
-title: Scrapping for a Data Job with Sia
+title: Scrapping for a Data Job with Sia Seko
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
 summary: "Scrapping for a Data Job: A brief description of natural language processing, and an ongoing application of it to show how it is being used to make a data science job search more efficient"
 abstract: ""
@@ -30,7 +30,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:

@@ -1,9 +1,9 @@
 ---
 title: "Avoid the Blank Stare: How to Tell a Great Story with Data"
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
-summary: "Candra M. will teach the audience how to tell a story with data"
+summary: "Candra McRae will teach the audience how to tell a story with data"
 abstract: ""
 
 
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:
@@ -61,4 +61,4 @@ projects:
 math: true
 ---
 
-Workshop with Candra M. to learn how to tell a story with your data. 
+Workshop with Candra McRae to learn how to tell a story with your data. 

@@ -51,3 +51,4 @@ subtitle = ""
  css_class = ""
 +++
 
+We introduce ourselves on our Team page, but acknowledge the contributions of numerous people who got us on our feet in our infancy, including: [Jenea Adams](https://www.jeneaiadams.com/) (founder of the [Black Women in Computational Biology Network](https://www.blackwomencompbio.org/)), [Asia Mitchell](https://twitter.com/Asia_Mitch) and [Emmanuel Garcia](https://twitter.com/manithegarcia). 

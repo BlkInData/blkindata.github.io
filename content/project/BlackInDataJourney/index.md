@@ -1,5 +1,5 @@
 ---
-title: "#BlackInDataJourney #BlackInDataStory"
+title: "#BlackInDataJourney"
 summary: Further fostering community for Black people in data, by encouraging them to share their varied journeys in data.
 tags:
 - Professional development

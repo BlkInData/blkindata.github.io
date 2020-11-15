@@ -1,7 +1,7 @@
 ---
-title: Data analytics careers after 40
+title: Data analytics careers after 40 with Kimberly Deas
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
 summary: Lunchtime webinar on how to enter the data analytics careers after age 40.
 abstract: ""
@@ -10,7 +10,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-11-17T13:30:00Z"
-date_end: "2020-11-17T14:00:00Z"
+date_end: "2020-11-17T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -18,7 +18,6 @@ publishDate: "2020-10-29T00:00:00Z"
 
 authors:
 - kimberly-deas
-- markia-smith
 
 tags:
 - Professional development
@@ -28,7 +27,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:

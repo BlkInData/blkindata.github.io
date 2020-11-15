@@ -77,12 +77,12 @@ subtitle = "A week-long celebration #BlackInDataWeek to (1) highlight the valuab
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "text-align:center"
  
  # CSS class.
  css_class = ""
 +++
 
+To sign up for events, [click here](https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673)!
 
- 
- <img src="banner-schedule.png" class="center-block" alt="Poster presentation with Markia smiling next to poster" style="width:100%;">
+ <img src="banner-schedule.png" class="center-block" alt="Description of week events" style="width:100%;">

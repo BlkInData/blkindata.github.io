@@ -1,16 +1,17 @@
 ---
-title: "Getting the job and growing in the job"
+title: "Getting the job and growing in the job: Career Development and Mentorship"
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
-summary: "Job panel with Matthew, Reggie, Amanda, and Simone with a focus on the role of professional mentorship"
+summary: "Job panel with Matthew Finney, Keita Broadwater, Dr. Anas Turabi, 
+Faith Umoh, Dr. Shelby Wilson,with a focus on the role of professional mentorship"
 abstract: "" 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-11-21T12:00:00Z"
-date_end: "2020-11-20T13:00:00Z"
+date: "2020-11-21T14:00:00Z"
+date_end: "2020-11-20T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -29,7 +30,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:
@@ -60,7 +61,10 @@ projects:
 # Enable math on this page?
 math: true
 ---
-Panel on Getting the Job / Growing in the Job, with a focus on the role of professional mentorship
+Panel on Getting the Job / Growing in the Job with 
+- Keita Broadwater, ML Manager @ Stealth Startup
+- Dr. Anas Turabi, Associate Partner (Data Science) @ McKinsey
+- Faith Umoh, Data Scientist @ Deloitte
+- Dr. Shelby Wilson, Assistant Professor of Computational Biology @ Univ of Maryland
 
-Drop in Mentorship Hours with volunteer mentors
 

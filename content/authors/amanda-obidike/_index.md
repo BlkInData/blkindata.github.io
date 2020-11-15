@@ -24,7 +24,7 @@ organizations:
   url: "https://stemiafrica.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m Black in Data because .
+bio: I’m Black in Data because is a young and vibrant community of Black leaders who are doing well to change the cultural narrative and misrepresentation of Black lives.
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -62,7 +62,7 @@ email: ""
 user_groups:
 - Organizers
 ---
-> I’m Black in Data because 
+> I’m Black in Data because is a young and vibrant community of Black leaders who are doing well to change the cultural narrative and misrepresentation of Black lives. I am passionate in using data to create a more equitable and inclusive world. I hope to use data and technology to influence our lives and promote accountability. 
 
 Pronouns: she/her
 

@@ -1,7 +1,7 @@
 ---
 title: "COVID19 Health Disparities with Andrea Hobby"
 event: BID Week 2020
-event_url: 
+event_url: https://www.eventbrite.com/e/blackindataweek-2020-tickets-127652703673
 location: Worldwide
 summary: "Andrea Hobby describes current trends of health disparities exhibited in COVID19 patients."
 abstract: ""
@@ -11,7 +11,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-11-19T12:00:00Z"
-date_end: "2020-11-19T12:15:00Z"
+date_end: "2020-11-19T12:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -32,7 +32,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [Chloe Hoeber] (https://twitter.com/chloeauyun)'
+  caption: '[Image credit: Chloe Hoeber](https://chloehoeber.squarespace.com/)'
   focal_point: Right
 
 links:

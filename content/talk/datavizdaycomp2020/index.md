@@ -61,6 +61,6 @@ projects:
 # Enable math on this page?
 math: true
 ---
- As creators of Black In Data, we are mindful of the harmful ways Black people have been presented in data historically and to this day. We are interested in unpicking how we relate this this, as Black data professionals, and how we work against this in our day-to-day. We are hosting the “Black In Data Visualisation Challenge” to showcase the data visualisation skills of the many talented Black people in the field of data sciences. We also host this challenge to highlight data that shows Black people in a positive light (we thought long and hard about which dataset to use - we hope you like it), and to highlight the power of collaboration (as seen in ours with the Data Visualization Society). 
+As creators of Black In Data, we are hosting the “Black In Data Visualisation Challenge” in partnership with the Data Visualization Society to showcase the data visualisation skills of the many talented people within the Black/African Diaspora across different interests. This competition serves to make room for all visualizations that demonstrate something that you are passionate about - we welcome submissions that highlight culture, expose social injustice, and/or any of your special interests. 
 
 Details to be dropped soon! Official Launch will be Nov. 19th!

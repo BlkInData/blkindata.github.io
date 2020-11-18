@@ -61,6 +61,6 @@ projects:
 # Enable math on this page?
 math: true
 ---
-As creators of Black In Data, we are hosting the “Black In Data Visualisation Challenge” in partnership with the Data Visualization Society to showcase the data visualisation skills of the many talented people within the Black/African Diaspora across different interests. This competition serves to make room for all visualizations that demonstrate something that you are passionate about - we welcome submissions that highlight culture, expose social injustice, and/or any of your special interests. 
+As creators of Black In Data, we are hosting the “Black In Data Visualization Challenge” in partnership with the Data Visualization Society to showcase the data visualization skills of the many talented people within the Black/African Diaspora across different interests. This competition serves to make room for all visualizations that demonstrate something that you are passionate about - we welcome submissions that highlight culture, expose social injustice, and/or any of your special interests. 
 
 Details to be dropped soon! Official Launch will be Nov. 19th!
